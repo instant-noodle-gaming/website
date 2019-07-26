@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page One</title>
+  </head>
+  <body>
+    <div style="background-color:black; color:white; padding:200px;">
+      <p><b>Hello World</b></p>
+      <p><big>My name is Lenny Leal</big></p>
+      <p><i>Humans rise just to fall</i></p>
+      <p><small>I am a future innovator and Tony Stark</small></p>
+      <p><strong>I want to push humans to the next stage of evolution</strong></p>
+      <p><sub>I want to be the one that brings humans to light speed space travel</sub></p>
+      <p><sup>Ultron will help everyone and everything in the world</sup></p>
+      <p><ins>Ultron is an artificial intelligence initiative</ins></p>
+      <!--Ultron will eliminate all organic lifeforms-->
+      <h1>Project Ultron</h1>
+        <b>Ultron</b>: A security protocol device that uses a multitude of computer servers to hack into military computers to use their own weapons against themselves
+      <hr width="160%"/>
+      <p>The world will be brought to its knees</p>
+      <p align="center"><b>
+        <span style="color:green">Ultron</span> will save us all
+      </b></p>
+      <p align="center"> This will be the greatest thing to happen to homo sapiens <br />
+      <hr width="100px" align="center" />
+      <img src="https://errantcritic.files.wordpress.com/2015/05/4551282-0585895317-aveng.png"
+      height="150%" width="200px" border="5px" alt="" />
+      <a href="https://www.youtube.com/watch?v=hI9GyhX7yHM"// target="_blank"> Learn About Him</a>
+      <h2>About Him</h2>
+      <ul>
+        <li>A graphine compostion limits a weakness to <i>heat and electricity</i></li>
+        <li>Ultron has mini jet engines underneath the wrists, on the calves, and an enhanced jet engine on the back piece</li>
+      </ul>
+      <h3>Ultron's Main Directives</h3>
+      <ol>
+        <li>Assist in the evolution of mankind</li>
+        <li>Reassure the public in Ultron's soft image</li>
+      </ol>
+      <table border="2">
+        <tr>
+          <td bgcolor="000000">Kill Count</td>
+          <td>Objectives</td>
+        </tr>
+        <tr>
+          <td>Computers Assessed</td>
+          <td colspan="3">Criminals "Dealt With"</td>
+        </tr>
+      </table>
+      <form>
+        <input type="text" name="username" /><br />
+        <input type="password" name="password"/>
+      </form>
+      <form>
+        <input type="radio" name="gender" value="male"/> Male <br />
+        <input type="radio" name="gender" value="female"/> Female <br />
+      <h4><span> Contact Me </span></h4>
+      <form>
+        <input name="name" type="text" /><br />
+        <input name="email" type="email" /><br />
+        <textarea name="message"></textarea>
+        <input type="submit" value="SEND" class="submit" />
+      </form>
+
+  </body>
+</html>
